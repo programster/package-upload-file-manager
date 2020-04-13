@@ -16,7 +16,6 @@ if (count($files) > 0)
         if ($file->hasError())
         {
             throw $file->getException();
-            die("there was an eror");
         }
         else
         {

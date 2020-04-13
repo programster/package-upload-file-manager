@@ -1,7 +1,7 @@
 {
     "name": "programster/upload-file-manager",
     "type": "library",
-    "description": "Core libraries for PHP 7.0+",
+    "description": "A library to make handling file uploads easier.",
     "keywords": ["upload","library"],
     "homepage": "https://github.com/programster/package-core-libs",
     "license": "MIT",
