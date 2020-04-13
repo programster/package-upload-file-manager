@@ -1,0 +1,32 @@
+{
+    "name": "programster/upload-file-manager",
+    "type": "library",
+    "description": "Core libraries for PHP 7.0+",
+    "keywords": ["upload","library"],
+    "homepage": "https://github.com/programster/package-core-libs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stuart Page",
+            "email": "sdpagent@gamail.com",
+            "homepage": "https://blog.programster.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "require-dev" : {
+        "programster/core-libs": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Programster\\UploadFileManager\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Programster\\UploadFileManager\\Testing\\": "testing/"
+        }
+    }
+}
