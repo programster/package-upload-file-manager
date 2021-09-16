@@ -7,7 +7,7 @@ A package to make it easy to deal with upload files.
 composer require programster/upload-file-manager
 ```
 
-## Example Usages
+## Example Usage
 
 ```php
 $uploadManager = new Programster\UploadFileManager\UploadFileManager();
