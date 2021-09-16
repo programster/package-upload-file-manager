@@ -1,4 +1,4 @@
-# package-upload-file-manager
+# Upload File Manager PHP Package
 A package to make it easy to deal with upload files.
 
 ## Example Usages
