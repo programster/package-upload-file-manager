@@ -1,6 +1,12 @@
 # Upload File Manager PHP Package
 A package to make it easy to deal with upload files.
 
+## Install
+
+```bash
+composer require programster/upload-file-manager
+```
+
 ## Example Usages
 
 ```php
